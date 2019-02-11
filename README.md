@@ -21,3 +21,6 @@ this is the 4th paragraph nad lets see what happens in the comparision menu
 
 added copyright information 
 
+
+
+ADDING SOME info to learn about the 3rd type of branch and this info is from main maser branch
