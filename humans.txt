@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <BALA> -- <DELL> -- <Kudi@twitter.com>
 
 # THANKS
 
