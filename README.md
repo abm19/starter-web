@@ -17,3 +17,7 @@ Adding to the 3rd paragraph that is Deployement. And lets see what happens
 ## How to contribute
 this is the 4th paragraph nad lets see what happens in the comparision menu
 
+## COPYRIGHT
+
+added copyright information 
+
